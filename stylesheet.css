@@ -19,7 +19,7 @@ a{
 .nav{
     display: flex;
     justify-content: right;
-    gap: 25px;
+    gap: 20px;
     max-width: 100%;
 }
 
