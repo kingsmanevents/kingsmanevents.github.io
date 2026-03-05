@@ -280,10 +280,6 @@ input[type=submit]:hover {
     align-items: right;
 }
 
-.box-bronze{
-    display: flex;
-    justify-content: center;
-}
 .sidebar {
   height: 100%;
   width: 0;
