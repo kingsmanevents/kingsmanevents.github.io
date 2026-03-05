@@ -1,3 +1,5 @@
+@media (max-width: 768px) {
+
 body {
     margin: 0;
     padding: 0;
@@ -6,7 +8,7 @@ body {
 
 header {
     background-color: rgb(34, 34, 34);
-    padding: 30px;
+    max-width: 100%;
     text-align: left;
 }
 
@@ -19,12 +21,6 @@ a{
     display: flex;
     justify-content: right;
     gap: 25px;
-}
-
-.site-footer{
-    background-color: rgb(34, 34, 34);
-    padding: 20px;
-    text-align: center;
 }
 
 h4{
@@ -276,4 +272,6 @@ input[type=submit]:hover {
     font-weight: 600;
     justify-content: right;
     align-items: right;
+}
+
 }
