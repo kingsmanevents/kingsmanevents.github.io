@@ -250,12 +250,12 @@ input[type=submit]:hover {
 }
 
 .image-card .text {
-  position: relative;
+  position: center;
   bottom: 0;
   width: 100%;
   padding: 30px;
   color: white;
-  font-size: 28px;
+  font-size: 30px;
   background: linear-gradient(transparent, rgb(190, 175, 89));
   text-align: center;
 }
