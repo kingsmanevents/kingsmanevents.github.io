@@ -261,13 +261,13 @@ input[type=submit]:hover {
 }
 
 .image-card .text {
-  position: absolute;
+  position: center;
   bottom: 0;
   width: 100%;
   padding: 30px;
   color: white;
   font-size: 28px;
-  background: linear-gradient(transparent, rgba(0,0,0,0.6));
+  background: linear-gradient(transparent, rgb(190, 175, 89));
   text-align: center;
 }
 
