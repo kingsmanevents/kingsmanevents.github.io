@@ -248,15 +248,3 @@ input[type=submit]:hover {
     align-items: right;
     
 }
-
-.box-bronze{
-    justify-content: center;
-    gap: 10px;
-    max-width: 100%;
-    padding: 10px;
-}
-
-img{
-    max-width: 100%;
-    justify-content: center;
-}
