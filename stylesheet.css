@@ -255,7 +255,7 @@ input[type=submit]:hover {
   gap: 20px; 
 }
 
-.image-row img {
+.images img {
   width: 300px;
   height: auto;
 }
