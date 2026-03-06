@@ -249,14 +249,13 @@ input[type=submit]:hover {
     
 }
 
-.image-row {
+.images {
   display: flex;
   justify-content: center; 
-  flex-wrap: wrap;
   gap: 20px; 
 }
 
 .image-row img {
-  width: 250px;
+  width: 300px;
   height: auto;
 }
