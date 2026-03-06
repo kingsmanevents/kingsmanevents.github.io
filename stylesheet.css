@@ -248,3 +248,15 @@ input[type=submit]:hover {
     align-items: right;
     
 }
+
+.image-row {
+  display: flex;
+  justify-content: center; 
+  flex-wrap: wrap;
+  gap: 20px; 
+}
+
+.image-row img {
+  width: 250px;
+  height: auto;
+}
