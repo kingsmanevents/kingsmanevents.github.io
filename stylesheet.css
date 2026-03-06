@@ -249,3 +249,7 @@ input[type=submit]:hover {
     
 }
 
+.box-bronze{
+    justify-content: center;
+    gap: 10px;
+}
