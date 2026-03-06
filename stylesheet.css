@@ -275,4 +275,25 @@ input[type=submit]:hover {
   font-size: 24px;
 }
 
+.image-card {
+  position: relative;
+  width: 600px;
+}
+
+.image-card img {
+  width: 100%;
+  display: block;
+  border-radius: 10px;
+}
+
+.image-card .text {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 30px;
+  color: white;
+  font-size: 28px;
+  background: linear-gradient(transparent, rgba(0,0,0,0.6));
+}
+
 
