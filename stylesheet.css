@@ -256,12 +256,12 @@ input[type=submit]:hover {
   padding: 30px;
   color: white;
   font-size: 30px;
-  background: linear-gradient(transparent, blue);
+  background: linear-gradient(transparent, rgb(190, 175, 89));
   text-align: center;
 }
 
 .image-button {
-  position: center;
+  position: relative;
   display: block;
   width: 100%;
   max-width: 100%;
