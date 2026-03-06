@@ -173,72 +173,12 @@ h3{
     border-radius: 20px;
 }
 
-.row0{
-    padding: 100px;
-    gap: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
- .box-teal{
-    padding: 120px 200px;
-    background-color: rgb(24, 24, 24);
-    border-radius: 20px;
- }
-
-.row1{
-    padding: 100px;
-    gap: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.btn{
-    display: inline-block;
-    padding: 25px 75px;
-    background-color: rgb(190, 175, 89);
-    color: black;
-    border-radius: 100px;
-    font-weight: 600;
-    justify-content: right;
-    align-items: right;
-}
-
-.btn:hover{
-    background-color: rgb(173, 173, 173);
-}
-
- .box-blue{
-    padding: 120px 200px;
-    background-color: rgb(24, 24, 24);
-    border-radius: 20px;
- }
-
 .left-box1{
     padding: 140px 200px;
     background-color: rgb(34, 34, 34);
     border-radius: 20px;
 }
 
-.row2{
-    padding: 100px;
-    gap: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center
-}
-
-.box-green{
-    padding: 120px 200px;
-    background-color: rgb(24, 24, 24);
-    border-radius: 20px;
-}
-
-img{
-    border-radius: 20px;
-}
 
 .row0{
     padding: 100px;
@@ -256,13 +196,6 @@ img{
     justify-content: center
 }
 
-.row3{
-    padding: 100px;
-    gap: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center
-}
 
 .box-red{
     padding: 120px 200px;
@@ -270,33 +203,6 @@ img{
     border-radius: 20px;
 }
 
-.row4{
-    padding: 100px;
-    gap: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center
-}
-
-.box-yellow{
-    padding: 120px 200px;
-    background-color: rgb(24, 24, 24);
-    border-radius: 20px;
-}
-
-.row5{
-    padding: 100px;
-    gap: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center
-}
-
-.box-brown{
-    padding: 120px 200px;
-    background-color: rgb(24, 24, 24);
-    border-radius: 20px;
-}
 
 input[type=text], select, textarea {
     width: 100%;
