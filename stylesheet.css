@@ -286,7 +286,8 @@ input[type=submit]:hover {
 
 .overlay h2 {
   margin: 0;
-  font-size: 24px;
+  font-size: 30px;
+  text-align: center;
 }
 
 .image-button:hover img {
