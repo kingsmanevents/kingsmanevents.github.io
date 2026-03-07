@@ -239,10 +239,7 @@ input[type=submit]:hover {
 }
 
 .box2{
-    justify-items: center;
     justify-content: center;
-    align-items: center;
     display: flex;
     gap: 20px;
-    text-align: center;
 }
