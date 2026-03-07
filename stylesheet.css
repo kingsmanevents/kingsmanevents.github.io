@@ -238,8 +238,3 @@ input[type=submit]:hover {
     max-height: 100%;
 }
 
-.box2{
-    justify-content: center;
-    display: flex;
-    gap: 20px;
-}
