@@ -238,22 +238,10 @@ input[type=submit]:hover {
     max-height: 100%;
 }
 
-.images {
-  display: flex;
-  justify-content: center;
-  justify-items: center;
-  gap: 20px;
-}
-
-.images img {
-  max-width: 100%;
-  max-height: fit-content;
-}
-
-/* Mobile view */
-@media (max-width: 768px) {
-  .images {
-    flex-direction: row;
+.box2{
+    justify-items: center;
+    justify-content: center;
     align-items: center;
-  }
+    display: flex;
+    gap: 20px;
 }
