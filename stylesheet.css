@@ -246,14 +246,14 @@ input[type=submit]:hover {
 }
 
 .images img {
-  width: 300px;
-  height: auto;
+  max-width: 100%;
+  max-height: fit-content;
 }
 
 /* Mobile view */
 @media (max-width: 768px) {
   .images {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
   }
 }
