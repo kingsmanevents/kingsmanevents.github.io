@@ -243,6 +243,7 @@ input[type=submit]:hover {
     justify-content: center;
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
 }
 
 img{
