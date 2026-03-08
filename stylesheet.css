@@ -252,15 +252,13 @@ img{
     border-radius: 20px;
 }
 
+.center{
+    text-align: center;
+}
+
 .btn{
     background-color: aqua;
     padding: 20px;
     border-radius: 20px;
     justify-content: center;
-}
-
-button{
-    color: #BEAF59;
-    padding: 20px;
-    border-radius: 20px;
 }
