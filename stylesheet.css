@@ -254,6 +254,8 @@ img{
 
 .center{
     text-align: center;
+    justify-content: center;
+
 }
 
 .btn{
