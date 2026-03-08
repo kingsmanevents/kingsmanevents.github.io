@@ -238,11 +238,9 @@ input[type=submit]:hover {
     max-height: 100%;
 }
 
-.box2{
-    justify-items: center;
+.box-purple{
+    padding: 10px;
+    justify-content: center;
     display: flex;
-}
-
-img{
-    max-width: 100%;
+    gap: 20px;
 }
