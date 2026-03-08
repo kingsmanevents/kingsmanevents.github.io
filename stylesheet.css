@@ -238,22 +238,6 @@ input[type=submit]:hover {
     max-height: 100%;
 }
 
-.box-purple{
-    padding: 10px;
-    justify-content: center;
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-.box-pink{
-    padding: 10px;
-    justify-content: center;
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
 .box-lilac{
     padding: 10px;
     justify-content: center;
