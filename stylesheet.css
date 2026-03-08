@@ -254,12 +254,9 @@ img{
 
 .center{
     text-align: center;
-    justify-content: center;
-    justify-items: center;
 }
 
 .btn{
-    background-color: aqua;
     padding: 20px;
     border-radius: 20px;
     justify-content: center;
