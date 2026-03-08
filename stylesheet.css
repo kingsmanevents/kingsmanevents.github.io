@@ -246,6 +246,22 @@ input[type=submit]:hover {
     flex-wrap:nowrap;
 }
 
+.box-pink{
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    flex-wrap:nowrap;
+}
+
+.box-lilac{
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    flex-wrap:nowrap;
+}
+
 img{
     max-width: 100%;
     max-height: 100%;
