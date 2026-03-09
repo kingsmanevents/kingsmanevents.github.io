@@ -265,7 +265,8 @@ img{
     justify-content: center;
 }
 
-footer{
+.footer{
+    position: fixed;
     background-color: #444;
     padding: 30px;
     text-align: center;
