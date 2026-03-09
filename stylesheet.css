@@ -264,3 +264,10 @@ img{
     border-radius: 20px;
     justify-content: center;
 }
+
+.site-footer{
+    background-color: #444;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+}
