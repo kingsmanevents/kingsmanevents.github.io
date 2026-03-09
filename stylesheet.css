@@ -252,15 +252,3 @@ img{
     border-radius: 20px;
 }
 
-.center{
-    display: flex;
-    justify-content: center;
-}
-
-.btn{
-    background-color: #BEAF59;
-    color: #111;
-    padding: 20px;
-    border-radius: 20px;
-    justify-content: center;
-}
