@@ -269,3 +269,44 @@ img{
     text-align:center;
     padding: 30px;
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 200px;
+  gap: 5px;
+  width: 90%;
+  margin: auto;
+}
+
+.gallery img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0px;
+}
+
+.wide {
+  grid-column: span 1;
+}
+
+.tall {
+  grid-row: span 2;
+}
+
+@media (max-width: 768px) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+.box-olive{
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+}
